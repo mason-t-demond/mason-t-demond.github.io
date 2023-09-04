@@ -70,3 +70,22 @@ div {
     width: 95%;
     height: 95%;
 }
+
+footer {
+    align-items: center;
+}
+
+.contact-btn {
+    float: left;
+}
+
+.donation-btn a {
+    cursor: pointer;
+    border: 2px solid black;
+    padding: 4px;
+    position: relative;
+}
+
+.donation-btn a:active {
+    top: 2px;
+}
