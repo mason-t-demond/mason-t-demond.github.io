@@ -1,3 +1,55 @@
 .jumbotron {
+    margin: 1rem;
+    color: white;
+}
+
+#title {
+    font-family: 'Josefin Sans', Verdana;
+    font-size: 3.5rem;
+}
+
+#genre-cover {
+    width: 15rem;
+}
+
+button {
+    color: white;
+    background-color: purple;
+    border: .25rem solid white;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: .25rem;
+    padding-bottom: .25rem;
+}
+
+#genre-btn {
+    font-family: 'Teko', Arial;
+    font-size: 1.5rem;
+}
+
+#mix-btn {
+    font-family: 'Teko', Arial;
+    font-size: 1.5rem;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: orange;
+}
+
+a:hover {
+    color:lightblue;
+}
+
+a:active {
+    color:black;
+}
+
+p {
+    font-family: 'Montserrat', Arial;
     padding: 1rem;
+    color: white;
 }
