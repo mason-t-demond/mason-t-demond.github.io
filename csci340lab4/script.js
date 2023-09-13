@@ -46,10 +46,11 @@ else {
         for (var i = 0; i < data["resultCount"]; i++) {
             var song_anchor = $("<a>").attr("href", data["results"][i]["trackViewUrl"])
             .text(data["results"][i]["artistName"] + " - " + data["results"][i]["trackCensoredName"]);
-            $('#songs').append(song_anchor)
-            $('#songs').append("<br>")
+            $('#songs').append(song_anchor);
+            $('#songs').append("<br>");
         }
-        $('#genre-cover').attr("src", data["results"][0]["artworkUrl100"])
+        $('#genre-cover').attr("src", data["results"][0]["artworkUrl100"]);
+        $('#genre-credit').text("© Apple");
     }
     })
     .catch(error => {
