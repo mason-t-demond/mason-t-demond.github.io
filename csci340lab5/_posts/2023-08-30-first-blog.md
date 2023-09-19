@@ -2,7 +2,7 @@
 layout: post
 title: Introduction Post
 author: Mason Mason
-categories: lab intro
+categories: Intro
 ---
 
 Welcome to my blog! This isn't my first one, as I have another one called [The Compost Bin](https://mason-t-demond.github.io/compost-bin/), which details my experience with an exciting summer research project.

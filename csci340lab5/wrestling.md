@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: Mason's Top 10
+author: Mason Mason
 permalink: /wrestling/
 ---
 

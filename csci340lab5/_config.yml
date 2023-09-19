@@ -4,6 +4,7 @@ email: MasonTD@hendrix.edu
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
+
 description: >
   A journal chronicling my journey learning to create in HTML, CSS, and other
   web-based mediums to interact with the coding world on a grander scale.
