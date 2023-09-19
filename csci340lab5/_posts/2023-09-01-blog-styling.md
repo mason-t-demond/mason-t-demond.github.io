@@ -2,7 +2,7 @@
 layout: post
 title: Stylin' and Profilin'
 author: Mason Mason
-categories: lab customization
+categories: Customization
 ---
 This assignment also stretched the boundaries of what I thought I knew about Jekyll blogs. Before this class, I didn't even know that it was possible to customized the pre-made themes, however, this subverted all of my expectations. More importantly, however, I did not know that you could create new Markdown pages in the root directory to add pages to your header. Quite revolutionary indeed.
 

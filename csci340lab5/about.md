@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: About
+author: Mason Mason
 permalink: /about/
 ---
 
