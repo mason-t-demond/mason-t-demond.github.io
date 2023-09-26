@@ -1,0 +1,47 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import 'tale';
+
+p {
+    color: rgb(183, 110, 121);
+  }
+  
+  ol {
+    color: rgb(233, 160, 181);
+  }
+  
+  li {
+    color: rgb(233, 160, 181);
+  }
+  
+  h1 {
+    color: rgb(133, 60, 81);
+    font-weight: 625;
+  }
+  
+  h2 {
+    color: rgb(133, 60, 81);
+    font-weight: 525;
+  }
+  
+  h3 {
+    color: rgb(133, 60, 81);
+    font-weight: 425;
+  }
+  
+  h4 {
+    color: rgb(133, 60, 81);
+    font-weight: 325;
+  }
+  
+  h5 {
+    color: rgb(133, 60, 81);
+    font-weight: 225;
+  }
+  
+  h6 {
+    color: rgb(133, 60, 81);
+    font-weight: 125;
+  }
